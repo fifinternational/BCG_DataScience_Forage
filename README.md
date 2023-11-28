@@ -28,7 +28,7 @@ Please submit analysis in a code script, notebook, or PDF format.
 
 Please note, there are multiple ways to approach the task and that the sample answer is just one way to do it.
 
-##Sub-Task 1:
+## Sub-Task 1:
 
 Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions. This first subtask is for you to gain a holistic understanding of the dataset. You should spend around 1 hour on this. ##Sub-Task 2:
 
@@ -40,8 +40,9 @@ For your final deliverable, please submit your analysis (in the form of a jupyte
 
 Note: Use the 2 datasets within the additional resources for this task and if you’re unsure on where to start with visualizing data, use the accompanying links. Be sure to also use the data description document to understand what the columns represent. The task description document outlines the higher-level motivation of the project. Finally, use the eda_starter.ipynb file to get started with some helper functions and methods.
 
-Feature Engineering & Modelling
-##Sub-Task 1
+Feature Engineering & Modelling 
+
+## Sub-Task 1
 
 Your colleague has done some work on engineering the features within the cleaned dataset and has calculated a feature which seems to have predictive power.
 
@@ -49,15 +50,15 @@ This feature is “the difference between off-peak prices in December and Januar
 
 Run the cells in the notebook provided (named feature_engineering.ipynb) to re-create this feature. then try to think of ways to improve the feature’s predictive power and elaborate why you made those choices.
 
-##Sub-Task 2
+## Sub-Task 2
 
 Now that you have a dataset of cleaned and engineered features, it is time to build a predictive model to see how well these features are able to predict a customer churning. It is your task to train a Random Forest classifier and to evaluate the results in an appropriate manner. We would also like you to document the advantages and disadvantages of using a Random Forest for this use case. It is up to you how to fulfill this task, but you may want to use the below points to guide your work:
 
 Ensure you’re able to explain the performance of your model, where did the model underperform? Why did you choose the evaluation metrics that you used? Please elaborate on your choices. Document the advantages and disadvantages of using the Random Forest for this use case. Do you think that the model performance is satisfactory? Give justification for your answer. (Bonus) - Relate the model performance to the client's financial performance with the introduction of the discount proposition. How much money could a client save with the use of the model? What assumptions did you make to come to this conclusion? You should spend 1 - 1.5 hours on this. When it comes to model evaluation and the explanation of your results, feel free to use the additional links below.
 
-##If you are stuck:
+## If you are stuck:
 
-##Sub-Task 1
+## Sub-Task 1
 
 Think of ways to evaluate a feature against a label. Think of ways to add new features which would complement the already existing ones. Think of feature granularity. Remove unnecessary features. ##Sub-Task 2
 
