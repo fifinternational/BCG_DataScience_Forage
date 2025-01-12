@@ -60,6 +60,8 @@ Ensure you’re able to explain the performance of your model, where did the mod
 
 ## Sub-Task 1
 
-Think of ways to evaluate a feature against a label. Think of ways to add new features which would complement the already existing ones. Think of feature granularity. Remove unnecessary features. ##Sub-Task 2
+Think of ways to evaluate a feature against a label. Think of ways to add new features which would complement the already existing ones. Think of feature granularity. Remove unnecessary features.
+
+## Sub-Task 2
 
 Is this problem best represented as classification or regression? What kind of model performance do you think is appropriate? Most importantly how would you measure such a performance? How would you tie business metrics such as profits or savings to the model performance?
